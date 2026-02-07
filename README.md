@@ -1,5 +1,5 @@
 # What is AmongPad:
-**AmongPad** is a Gamepad allows user to play **Among Us** with Controller Only, the app is **Free, no-ads, Supports Google Play Service so you can easily play with your account, Keys(Buttons/Analog) to place above actual Among Us Buttons (Kill/Report)**, AmongPad is not an cheating tool, or ruin players experiences
+**AmongPad** is a Gamepad allows user to play **Among Us** with Controller/Mouse/Keyboard Only, the app is **Free, no-ads, Supports Google Play Service so you can easily play with your account, Keys(Buttons/Analog) to place above actual Among Us Buttons (Kill/Report)**, AmongPad is not an cheating tool, or ruin players experiences
 
 # How to Download AmongPad:
 Currently **AmongPad** is under development and we are facing some bugs in the **source code**, before building the app we still contacting **Innersloth** details about what is **AmongPad** and how does it works so we make sure that the app is not against **Innersloth Terms of Service**, VirusTotal could detect this app is a malware because we are asking the **Users** for permissions that the app needs to work and becomes useful such as:
